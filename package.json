@@ -1,0 +1,8 @@
+{
+  "name": "ezcarp-zip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lisirgo/ezcarp-zip.git",
+  "author": "liheliang <heliang.li@surpath.net>",
+  "license": "MIT"
+}
